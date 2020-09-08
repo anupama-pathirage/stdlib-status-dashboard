@@ -1,1 +1,2 @@
-# stdlib-status-dashboard
+  [![Build](https://github.com/ballerina-platform/module-ballerinax-mysql/workflows/Build/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mysql/actions?query=workflow%3ABuild)
+  [![Daily build](https://github.com/ballerina-platform/module-ballerinax-mysql/workflows/Daily%20build/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-mysql/actions?query=workflow%3A%22Daily+build%22)
